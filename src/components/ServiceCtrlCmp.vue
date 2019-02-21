@@ -1,5 +1,6 @@
 <template>
-    <div>服务启停
+    <div class="panel panel-default">
+      <p>服务启停</p>
       <p>{{ count }}</p>
       <p>
         <button type="button" class="btn btn-primary" @click="increment">+</button>
