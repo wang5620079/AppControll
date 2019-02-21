@@ -23,7 +23,7 @@
             </div>
           </div>
         </div>
-        <div class='col-lg-10' style="background-color: red"><router-view></router-view></div>
+        <div class='col-lg-10'><router-view></router-view></div>
       </div>
     </div>
   </div>
